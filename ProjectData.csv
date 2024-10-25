@@ -1,0 +1,121 @@
+Year,Location,Country,Region,Type,Amount,Lender,Description
+2020,"Muzaffarabad, Azad Jammu & Kashmir",Pakistan,South Asia,Hydropower,$2.4B,CDB,Kohala Hydropower Project
+2020,"Thar, Sindh",Pakistan,South Asia,Coal,$1.9B,ICBC,SSRL Thar Coal Block-I 6.8 mtpa & Power Plant(2×660MW) (Shanghai Electric)
+2020,Preah Sihanouk,Cambodia,Southeast Asia,Coal,$600M,Chinese banks (China); Royal Group (Cambodia),Sihanoukville CIIDG Power Station 2
+2019,"Matiari, Sindh to Lahore, Punjab",Pakistan,South Asia,Power Transmission Line,$1.7B,Private sector investors (but built and operated by Chinese development companies).,Matiari to Lahore ±660kV HVDC Transmission Line Project
+2019,Adana province,Turkey,Europe/Central Asia,Coal,$1.4B,CDB,"Hunutlu Thermal Power Plant Project with ICBC, BOC"
+2019,Kaduna State,Nigeria,Africa,Hydropower,$1.0B,Ex-Im Bank,Gurara II hydropower project
+2019,Bắc Giang,Vietnam,Southeast Asia,Coal,$980M,CDB,An Khanh - Bac Giang (Nhà máy Nhiệt điện An Khánh - Bắc Giang)
+2019,Moyen-Bafing National Park,Guinea,Africa,Hydropower,$810M,Ex-Im Bank,294 MW Koukoutamba hydro project
+2019,Nam Ou River,Laos,Southeast Asia,Hydropower,$100M,CDB,"Nam Ou Dams Phas 2 (1, 3, 4, 7)"
+2018,,South Africa,Africa,Coal,$2.5B,CDB,Kusile Power Plant
+2018,"Konkoure River, 135km from Conakry",Guinea,Africa,Hydropower,$1.2B,Ex-Im Bank,Souapiti Hydro Project
+2018,Hambantota Port,Sri Lanka,South Asia,Gas/LNG,$1.0B,Ex-Im Bank,Hambantota Natural Gas-Powered Electrical Station
+2018,Kashkadarya Region,Uzbekistan,Europe/Central Asia,Gas/LNG,$1.0B,CDB,Gas-to-Liquid Plant with Various Foreign Banks
+2018,Bolikhamxai,Laos,Southeast Asia,Hydropower,$1.0B,Power Construction Corp (China),Nam Theun 1 Dam
+2018,"Hwange, Hwange District, Matabeleland North Province",Zimbabwe,Africa,Coal,$1.0B,Ex-Im Bank,Hwange Thermal Power Station Expansion (Unit 7-8)
+2018,"Gwadar, Balochistan",Pakistan,South Asia,Coal,$540M,"China Communication Construction Group, Tianjin Energy Group","300MW Imported Coal Based Power Project at Gwadar, Pakistan"
+2018,Delta Region,Nigeria,Africa,Gas/LNG,$500M,Ex-Im Bank,Modular Refinery Flare Gas Recovery Programme
+2018,"Thar, Sindh",Pakistan,South Asia,Coal,$500M,CDB,"330MW mine-mouth lignite-fired power plant with Habib Bank Limited, and Fauji Fertiliser Company (FFC), along with other equity partners including Hub Power Company (Hubco)"
+2018,"Nam tha River, tributary on the left bank of the Mekong River in Bokeo Province",Laos,Southeast Asia,Hydropower,$400M,Ex-Im Bank,Nam Tha 1 Hydro Power Project
+2018,Ikopa River,Madagascar,Africa,Hydropower,$200M,Ex-Im Bank,Ranomafana Hydropower Plant on Ikopa River 86MW
+2018,"Thalpitigala Reservoir, Uma Oya",Sri Lanka,South Asia,Hydropower,$150M,Ex-Im Bank,Thalpitigala Resovoir Dam
+2018,Unspecified,Lesotho,Africa,Solar,$70M,Ex-Im Bank,Neo2 70 MW solar PV plant
+2017,"Mambilla Plateau, Tabara State",Nigeria,Africa,Hydropower,$4.9B,Ex-Im Bank,Mambilla Hydroelectric Plant Co-financed with the Government of Nigeria
+2017,"Duyên Hải District, Trà Vinh Province",Vietnam,Southeast Asia,Coal,$1.8B,Ex-Im Bank,Duyen Hai 2 Thermal Power Plant
+2017,Xayaburi province,Laos,Southeast Asia,Hydropower,$1.7B,Ex-Im Bank,Pak Lay Dam
+2017,Medupi,South Africa,Africa,Coal,$1.5B,CDB,Medupi Coal Power Plant (6*794MW)
+2017,"Hub Tehsil, Lasbela District, Balochistan Province",Pakistan,South Asia,Coal,$1.5B,CDB-Ex-Im Cofinancing,Hubco Coal Power Plant Co-Financed by Consortium
+2017,"Mansehra District, Khyber Pakhtunkhwa",Pakistan,South Asia,Hydropower,$1.4B,Ex-Im Bank,Suki Kinari Hydropower Project with ICBC
+2017,Jhelum River,Pakistan,South Asia,Hydropower,$1.3B,CDB-Ex-Im Cofinancing,Karot Run-of-River Hydropower Project with Silk Road Fund and IFC
+2017,Gydan Peninsula,Russia,Europe/Central Asia,Gas/LNG,$1.2B,CDB,Arctic LNG 2
+2017,Qashqadaryo Province,Uzbekistan,Europe/Central Asia,Oil,$1.2B,CDB,Gas to Oil Processing Plant
+2017,"Tuzla, Bosnia & Herzegovina",Bosnia & Herzegovina,Europe/Central Asia,Coal,$880M,Ex-Im Bank,Tuzla 7 Lignite Power Plant
+2017,"Bahodopi, Morowali, Central Sulawesi, Indonesia",Indonesia,Southeast Asia,Coal,$700M,Ex-Im Bank,Indonesia Morowali Industrial Park Captive Coal-Fired Power Plant (300MW)
+2017,Chittagong,Bangladesh,South Asia,Oil,$690M,Ex-Im Bank,"Oil Tanker Mooring Platform, Underwater and Onshore Pipeline"
+2017,"Thar, Sindh",Pakistan,South Asia,Coal,$500M,CDB,"ThalNova 330MW Power Project with Bank of China, China Credit Insurance Agency and Habib Bank Limited"
+2017,Nam Phay,Laos,Southeast Asia,Hydropower,$370M,Ex-Im Bank,86-MW Nam Phay hydropower project
+2017,"San Gaban District in Carabaya Province, Puno Region",Peru,LAC,Hydropower,$370M,CDB,San Gaban III
+2017,"Pskem River, in the Tashkent region",Uzbekistan,Europe/Central Asia,Hydropower,$240M,Ex-Im Bank,Upgrade of Three Hydro Power Plants
+2017,"Jhimpir, Thatta District, Sindh Province",Pakistan,South Asia,Wind,$220M,CDB,Three Gorges Second and Third Wind Farm
+2017,Somali Regional State,Ethiopia,Africa,Wind,$220M,Ex-Im Bank,120-MW Aysha II wind farm
+2017,Pak Ngeuy-Pha Oudom,Laos,Southeast Asia,Hydropower,$170M,Ex-Im Bank,230kV Pak Ngeuy-Pha Oudom Transmission Line and Associated Substation Project
+2017,"Ntem River, Southwest of Cameroon",Cameroon,Africa,Hydropower,$140M,Ex-Im Bank,Memvélé Dam Additonal Fund (Drain)
+2017,Garissa,Kenya,Africa,Solar,$140M,Ex-Im Bank,Garissa-based 55MW solar farm
+2017,Champasak Province,Laos,Southeast Asia,Hydropower,$90M,Ex-Im Bank,Houay Palai Hydropower Project
+2017,Mariel Development Zone,Cuba,LAC,Solar,$60M,Ex-Im Bank,50 MW Solar Park
+2016,Yamal Peninsula,Russia,Europe/Central Asia,Gas/LNG,$11B,CDB-Ex-Im Cofinancing,Yamal LNG
+2016,Unspecified,Angola,Africa,Oil,$6.9B,CDB,Unspecified Oil Export
+2016,Caculo Cabaca,Angola,Africa,Hydropower,$4.1B,ICBC,Caculo Cabaca Hydropower Project 2170MW and transmission lines
+2016,Unspecified,Russia,Europe/Central Asia,Gas/LNG,$2.5B,CDB,Europe – China International Transport Route; Various Energy Cooperation
+2016,Orinoco Oil Belt,Venezuela,LAC,Oil,$2.2B,CDB,New Dehydration and Desalination Plant; expansion of Jose Processing Plant in Anzoategui
+2016,"Kalapara, Patuakhali",Bangladesh,South Asia,Coal,$2.0B,Ex-Im Bank,Payra 1320 (2x660) MW Thermal Power Plant Project (Kalapara Phase I)
+2016,"Java Island, Indonesia, about 100km northwest of Jakarta",Indonesia,Southeast Asia,Coal,$1.8B,CDB,Java-7 Coal-Fired Power Plant (2000MW)
+2016,Grande River in Santa Cruz,Bolivia,LAC,Hydropower,$1.0B,Ex-Im Bank,Rositas Hydroelectric Power Plant
+2016,"Port Qasim, Sindh, Pakistan",Pakistan,South Asia,Coal,$750M,CDB,Port Qasim Datang 1 (700MW)
+2016,"Thar, Sindh",Pakistan,South Asia,Coal,$630M,"CDB, Construction Bank of China and ICBC cofinancing","Surface Mine In Block II Of Thar Coal Field, 3.8 Million Tons/Year"
+2016,Chittagong,Bangladesh,South Asia,Gas/LNG,$540M,Ex-Im Bank,220KM Pipeline
+2016,Mpumalanga and Limpopo Provinces,South Africa,Africa,Coal,$500M,CDB,"Medupi, Kusile and Ingula Power Stations"
+2016,Salavan-Sekong,Laos,Southeast Asia,Hydropower,$380M,Ex-Im Bank,Salavan-Sekong II Power Transmission Project
+2016,"Khoeng Xiangkhouang, Laos",Laos,Southeast Asia,Hydropower,$320M,Ex-Im Bank,Nam Ngum 4 Hydropower Station
+2016,"Warak, Adamaoua",Cameroon,Africa,Hydropower,$290M,ICBC,"Warak Hydropower Project on Bini River, Adamaoua 75MW"
+2016,Western Indonesia Bengkulu Province,Indonesia,Southeast Asia,Coal,$270M,Ex-Im Bank,Bengkulu Power Station
+2016,Loznica,Serbia,Europe/Central Asia,Gas/LNG,$260M,CDB,Loznica Thermal Power Station
+2015,Bình Thuận,Vietnam,Southeast Asia,Coal,$2.0B,CDB and CLP Holdings,Vinh Tan 3 Coal-Fired Plant
+2015,"Sahiwal, Punjab",Pakistan,South Asia,Coal,$1.9B,ICBC,"Sahiwal 2x660MW Coal-fired Power Plant, Punjab"
+2015,Chikankata District,Zambia,Africa,Hydropower,$1.7B,Ex-Im Bank,Kafue Gorge Lower Hydro-Power Project with ICBC
+2015,"Port Qasim, Sindh, Pakistan",Pakistan,South Asia,Coal,$1.6B,Ex-Im Bank,Pakistan Port Qasim Power Project with Individual Companies
+2015,"Bahawalpur, Punjab, Pakistan",Pakistan,South Asia,Solar,$1.5B,CDB-Ex-Im Cofinancing,Quaid-e-Azam Solar Park Phase II and III
+2015,"Muara Lenim and Lahat Regencies, South Sumatra Province",Indonesia,Southeast Asia,Coal,$1.2B,Ex-Im Bank,"Bangko Tengah, aka South Sumatra 8 or Sumsel-8"
+2015,Soyo,Angola,Africa,Coal,$840M,ICBC,Soyo I Combined Cycle Power Plant Phase I 750MW
+2015,"Tharparkar District, Sindh, Pakistan",Pakistan,South Asia,Coal,$820M,CDB,"Thar Engro Power Station with ICBC, CCB, Commerical Bank of China"
+2015,"Muzaffarabad, Azad Jammu & Kashmir, Pakistan",Pakistan,South Asia,Hydropower,$580M,Ex-Im Bank,Neelum-Jhelum Hydro Station
+2015,"Adjarala, between Togo and Benin","Benin, Togo",Africa,Hydropower,$550M,Ex-Im Bank,Adjarala Hydroelectric Project
+2015,"Approximate of Bungo Regency, Jambi Province",Indonesia,Southeast Asia,Coal,$500M,CDB,Jambi DSS Power Station
+2015,Karuma Falls on the Victoria Nile,Uganda,Africa,Hydropower,$480M,Ex-Im Bank,Isimba Hydroelectric Power Station
+2015,Southern Ethopia,Ethiopia,Africa,Hydropower,$250M,Ex-Im Bank,Transmission Project of Genale Dawa III-Yirgalem II-Wolayita Sodo II-Hawassa II
+2015,"Thatta District, Sindh, Pakistan",Pakistan,South Asia,Wind,$250M,CDB,Jhmpir Wind Power Plant
+2015,Mandalay,Myanmar,Southeast Asia,Gas/LNG,$250M,"AIIB, ADB, IFC, DBS, Clifford Capitol, DZ Bank, Overseas-China Banking",Myingyan (Sembcorp) CCGT Power Plant
+2015,Busanga,Democratic Republic of Congo,Africa,Hydropower,$170M,"Ex-Im Bank, through Sicomines",Busanga Hydropower Project 240MW
+2015,"Tanjung Tiram, South Konawe, Southeast Sulawesi",Indonesia,Southeast Asia,Coal,$150M,CDB,Kendari-3 Power Station (100MW)
+2015,"Bhanbore, Thatta",Pakistan,South Asia,Wind,$110M,ICBC,"Hydro China Dawood Wind Farm (Gharo, Thatta)"
+2015,Maamba,Zambia,Africa,Hydropower,$64M,ICBC and Bank of China,Maamba Coal Power Plant Phase I (3x150=450MW)
+2015,Matanzas,Cuba,LAC,Biomass,$60M,Ex-Im Bank,Jesus Rabi Biomass Power Plant 20 MW
+2015,"Jhimpir, Sindh",Pakistan,South Asia,Wind,$50M,ICBC,Sachal Wind Farm
+2014,Unspecified,Angola,Africa,Oil,$2.0B,CDB,Unspecified Oil Export
+2014,"Binh Thuan Province, Vietnam",Vietnam,Southeast Asia,Coal,$1.4B,CDB-Ex-Im Cofinancing,"Vinh Tan 1 Coal-Fired Thermal Power Plant with  ICBC, BOC & Sinosure"
+2014,Savannakhét,Laos,Southeast Asia,Hydropower,$700M,Yunnan Energy Investment Group (China),Xe Lanong 1
+2014,"Quảng Ninh Province, Vietnam",Vietnam,Southeast Asia,Coal,$650M,CDB,Thang Long Power Plant (600MW)
+2014,"Požarevac, Serbia",Serbia,Europe/Central Asia,Coal,$610M,Ex-Im Bank,"Kostolac B2 (retrofit), Kostolac B3 (new), and Expansion of Drmno Mine"
+2014,"Amazon Basin, Coca River, between Napo and Sucumbíos Provinces",Ecuador,LAC,Hydropower,$510M,Ex-Im Bank,Coca Codo Sinclair Hydroelectric Facility
+2014,the Geba River in western Ethiopia,Ethiopia,Africa,Hydropower,$470M,Ex-Im Bank,Geba Hydropower Station
+2014,Dushanbe,Tajikistan,Europe/Central Asia,Coal,$330M,Ex-Im Bank,Dushanbe-2 Combined Heat and Power (CHP) Plant
+2014,"Jerada, Jerada Province, Oriental Region",Morocco,Africa,Coal,$300M,Ex-Im Bank,Jerada Power Station Extension
+2014,"Punagaya village, Bangkala District, Jeneponto Regency, South Sulawesi Province, Indonesia",Indonesia,Southeast Asia,Coal,$240M,Ex-Im Bank,Takalar Steam Coal-Fired Power Plant (200MW)
+2014,"Lamjung district, Gandaki Pradesh",Nepal,South Asia,Hydropower,$170M,Ex-Im Bank,50-MW Upper Marsyandgi hydroelectric plant
+2014,Niger River Basin,Mali,Africa,Hydropower,$99M,Ex-Im Bank,Taoussa Hydropower Plant
+2014,junction of Xeset River between Saravan and Champassak provinces,Laos,Southeast Asia,Hydropower,$51M,Ex-Im Bank,Xeset III Hydropower Project
+2013,Orinoco Oil Belt,Venezuela,LAC,Oil,$4.0B,CDB,Increase Sinovensa Production in Orinoco
+2013,Far East Region,Russia,Europe/Central Asia,Coal,$2.0B,CDB,"Coal Resource Development in Far East, Including Exploration, Processing, Transportation and Power Generation"
+2013,Kampot and Sihanoukville Provinces,Cambodia,Southeast Asia,Oil,$1.7B,Ex-Im Bank,Unspecified Oil Refinery
+2013,Karuma Falls on the Victoria Nile,Uganda,Africa,Hydropower,$1.4B,Ex-Im Bank,Karuma Hydroelectric Power Station
+2013,Unspecified,Angola,Africa,Oil,$1.3B,CDB,loan to Sonangol
+2013,Kaduna River in Niger State,Nigeria,Africa,Hydropower,$980M,Ex-Im Bank,Zungeru Hydropower Plant
+2013,"Cilacap, Central Java Province",Indonesia,Southeast Asia,Coal,$700M,CDB,Cilacap Sumber Power Station with BOC and Bank Rakyat Indonesia
+2013,Nam Ou River,Laos,Southeast Asia,Hydropower,$660M,CDB,"Nam Ou Dams Phase 1 (2, 5, 6)"
+2013,"Abidjan, Ivory Coast, West of Cote d'Ivoire",Cote d'Ivoire,Africa,Hydropower,$490M,Ex-Im Bank,Soubre Hydropower Project
+2013,"Gouina, Near Kayes, in the Western Region",Mali,Africa,Hydropower,$420M,Ex-Im Bank,Gouina Hydropower Project
+2013,Southwestern Koh Kong Province,Cambodia,Southeast Asia,Hydropower,$410M,Ex-Im Bank,Lower Stung Russey Chrum/Orussei Hydropower Project
+2013,"Ekibastuz, Kazakhstan",Kazakhstan,Europe/Central Asia,Coal,$400M,CDB,Third Unit of Ekibastuz GRES-2 Power Plant with Russia
+2013,"Bishkek, Kyrgyzstan",Kyrgyzstan,Europe/Central Asia,Coal,$390M,Ex-Im Bank,Bishkek Power Station Units 12 and 13
+2013,Unspecified,Zimbabwe,Africa,Hydropower,$320M,Ex-Im Bank,Kariba South Bank Extension
+2013,"Bayung Lencir District, Musi Banyuasin Regency, South Sumatra Province",Indonesia,Southeast Asia,Coal,$320M,CDB,Sumsel (SS-5) Power Station
+2013,"Pasir Village, Pangkalan Susu District, Langkat Regency, North Sumatra Province, Indonesia",Indonesia,Southeast Asia,Coal,$320M,Ex-Im Bank,Pangkalan Susu Unit 3 & 4 Coal Fired Power Plant
+2013,"Jubones River Basin, South-East Ecuador; Provinces Azuay, El Oro and Loya",Ecuador,LAC,Hydropower,$310M,Ex-Im Bank,Minas-San Francisco Hydroelectric Dam
+2013,"Oromia, Ethiopia",Ethiopia,Africa,Wind,$290M,Ex-Im Bank,Adama Wind Farm II
+2013,Eastern Uzbekistan,Uzbekistan,Europe/Central Asia,Coal,$170M,Ex-Im Bank,Angren Power Station with Uzbekenergo
+2013,"Bungus Teluk Kabung District, Padang City, West Sumatra Province, Indonesia",Indonesia,Southeast Asia,Coal,$140M,CDB,Teluk Sirih Coal-Fired Power Plant (224MW) STATION
+2013,"Gazipur District, Dhaka, Bangladesh",Bangladesh,South Asia,Coal,$130M,Ex-Im Bank,Kodda Power Plant
+2013,Brasov,Romania,Europe/Central Asia,Solar,$83M,CDB,82 MW Solar Park in Romania
+2013,"Binh Thuan Province, Vietnam",Vietnam,Southeast Asia,Coal,$28M,CDB,Thai Binh 2 Coal Power Plant
+2013,"Eastern Equatoria, Louis Lobong Lojore",South Sudan,Africa,Hydropower,$27M,Ex-Im Bank,Kinyeti Hydropower project
